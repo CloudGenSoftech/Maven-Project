@@ -8,7 +8,7 @@
   <version>1.0-SNAPSHOT</version>
   <name>prasad.devops</name>
   <url>http://maven.apache.org</url>
-
+  <!-- HELLO THIS TEST LINE For POLL SCM TEST -->
   <properties>
     <!--
       Explicitly declaring the source encoding eliminates the following message: [WARNING] Using platform encoding
