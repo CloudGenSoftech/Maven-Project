@@ -6,7 +6,7 @@
   <artifactId>CloudGen</artifactId>
   <packaging>war</packaging>
   <version>1.0</version>
-  <name>prasad.devops</name>
+  <name>Cloudgen</name>
   <url>http://maven.apache.org</url>
   <!-- HELLO THIS TEST LINE For POLL SCM TEST -->
   <properties>
